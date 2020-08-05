@@ -39,6 +39,11 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
+			<groupId>com.github.gavlyukovskiy</groupId>
+			<artifactId>p6spy-spring-boot-starter</artifactId>
+			<version>1.5.8</version>
+		</dependency>
+		<dependency>
 			<groupId>com.querydsl</groupId>
 			<artifactId>querydsl-apt</artifactId>
 		</dependency>
